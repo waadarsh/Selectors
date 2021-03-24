@@ -1,7 +1,7 @@
 {
   "name": "Selectors",
   "description": "selectors",
-  "main": "Get and sort data.xaml",
+  "main": "Set Data.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
@@ -44,6 +44,12 @@
     {
       "filePath": "Get and sort data.xaml",
       "uniqueId": "9d59440b-7569-4f79-8cdb-57773bc24e77",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Set Data.xaml",
+      "uniqueId": "530a516c-0174-4612-aed9-f1245baca8d0",
       "input": [],
       "output": []
     }
